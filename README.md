@@ -22,4 +22,4 @@
         
         <p>Dan di suatu tempat di kegelapan abadi, <mark><q>Kael</q></Mark> masih hidup. Menjaga dunia dari bayang-bayang. Bukan lagi pria tanpa bakat—tapi penjaga dimensi terakhir yang pernah dikenal semesta.</p>
 
-            <h6><a href="line2.html">halaman2</a></h6>
+            <h6><a href="https://ishaqakbari.github.io/Dari-kosong-menjadi-legenda-h2/">halaman2</a></h6>
